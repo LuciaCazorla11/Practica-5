@@ -8,7 +8,7 @@ public class ControllerAlejandra {
 
     @GetMapping("/saludo")
     public String saludar() {
-        return "¡Hola Mundo! Soy Alejandra y este es el controlador de mi rama de desarrollo.";
+        return "¡Hola Mundo! Soy Alejandra Viñegla y este es el controlador de mi rama de desarrollo.";
     }
 }
 
