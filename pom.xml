@@ -8,7 +8,7 @@
 		<version>3.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>es.grupoB.practica5</groupId>
+	<groupId>es.grupob.practica5</groupId>
 	<artifactId>practica5-github</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Práctica 5 Ingeniería del Software</name>
